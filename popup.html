@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="logo">🔊</div>
+      <h1>LeetCode Sounds</h1>
+    </div>
+
+    <div class="card">
+      <div class="toggle-row">
+        <span class="label">Enabled</span>
+        <label class="switch">
+          <input type="checkbox" id="enabled" checked>
+          <span class="slider"></span>
+        </label>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="volume-section">
+        <div class="volume-header">
+          <span class="label">🎉 Accept Volume</span>
+          <span class="volume-value" id="accept-vol-label">80%</span>
+        </div>
+        <input type="range" id="accept-vol" min="0" max="100" value="80" class="range green">
+      </div>
+
+      <div class="divider"></div>
+
+      <div class="volume-section">
+        <div class="volume-header">
+          <span class="label">💀 Fail Volume</span>
+          <span class="volume-value" id="fail-vol-label">80%</span>
+        </div>
+        <input type="range" id="fail-vol" min="0" max="100" value="80" class="range red">
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="toggle-row">
+        <span class="label">Play on test run</span>
+        <label class="switch">
+          <input type="checkbox" id="play-on-run" checked>
+          <span class="slider"></span>
+        </label>
+      </div>
+    </div>
+
+    <div class="footer">
+      skill issue detector v1.0
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

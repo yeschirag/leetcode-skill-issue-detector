@@ -9,8 +9,7 @@ A Chrome extension that plays meme sounds when you run or submit code on LeetCod
 
 ## 📹 Demo
 
-https://github.com/user-attachments/assets/YOUR_VIDEO_ID_HERE
-
+https://github.com/user-attachments/assets/3c487718-d023-44ee-a0b1-d2280432b6c9
 <!-- 
 To make the video show on GitHub:
 1. Go to your repo → Issues → New Issue
@@ -20,11 +19,7 @@ To make the video show on GitHub:
 5. You can discard the issue without saving
 
 Alternatively, if you push the mp4 to the repo, use:
--->
 
-https://raw.githubusercontent.com/yeschirag/leetcode-skill-issue-detector/main/leetcode-sound/leetcode-sound-meme.mp4
-
----
 
 ## ✨ Features
 
