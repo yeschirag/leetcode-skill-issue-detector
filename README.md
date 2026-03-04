@@ -49,11 +49,23 @@ Alternatively, if you push the mp4 to the repo, use:
 
 ## 🚀 Installation
 
-1. Clone or download this repo
+### Option 1: Download the ZIP (easiest)
+
+1. Download **[leetcode-skill-issue-detector.zip](https://github.com/yeschirag/leetcode-skill-issue-detector/releases/latest/download/leetcode-skill-issue-detector.zip)** from [Releases](https://github.com/yeschirag/leetcode-skill-issue-detector/releases)
+2. **Unzip** it to any folder on your computer
+3. Open **chrome://extensions** in Chrome
+4. Enable **Developer mode** (toggle in the top right)
+5. Click **Load unpacked**
+6. Select the **unzipped folder**
+7. Go to any LeetCode problem and start coding! 🎉
+
+### Option 2: Clone from source
+
+1. Clone the repo
    ```bash
-   git clone https://github.com/YOUR_USERNAME/leetcode-skill-issue-detector.git
+   git clone https://github.com/yeschirag/leetcode-skill-issue-detector.git
    ```
-2. Open `chrome://extensions` in Chrome
+2. Open **chrome://extensions** in Chrome
 3. Enable **Developer mode** (top right)
 4. Click **Load unpacked**
 5. Select the `leetcode-sound` folder
