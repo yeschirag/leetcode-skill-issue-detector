@@ -51,7 +51,7 @@ Alternatively, if you push the mp4 to the repo, use:
 
 ### Option 1: Download the ZIP (easiest)
 
-1. Download **[leetcode-skill-issue-detector.zip](https://github.com/yeschirag/leetcode-skill-issue-detector/releases/latest/download/leetcode-skill-issue-detector.zip)** from [Releases](https://github.com/yeschirag/leetcode-skill-issue-detector/releases)
+1. Download **[leetcode-skill-issue-detector.zip](https://github.com/yeschirag/leetcode-skill-issue-detector/releases/download/v1.0/leetcode-skill-issue-detector.zip)** from [Releases](https://github.com/yeschirag/leetcode-skill-issue-detector/releases/tag/v1.0)
 2. **Unzip** it to any folder on your computer
 3. Open **chrome://extensions** in Chrome
 4. Enable **Developer mode** (toggle in the top right)
